@@ -1,4 +1,12 @@
+
+
 ##### rgee install
+
+## Christopher Tsz Hin Choi
+## Christopher.Choi@colostate.edu
+## 05/31/2022
+
+## Set up for reference
 
 ## Source: https://www.youtube.com/watch?v=_fDhRL_LBdQ&ab_channel=DataNinjas
 
@@ -30,4 +38,8 @@ ee_Initialize()
 
 ## Test
 ee$String('Hello world')$getInfo()
+
+
+
+
 
