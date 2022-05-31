@@ -39,7 +39,11 @@ ee_Initialize()
 ## Test
 ee$String('Hello world')$getInfo()
 
+## rgee documentation
+# https://r-spatial.github.io/rgee/reference/rgee-package.html
 
+## Community Datasets
+# https://github.com/samapriya/awesome-gee-community-datasets
 
 
 
